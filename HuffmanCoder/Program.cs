@@ -8,9 +8,7 @@ namespace HuffmanCoder
 {
     /*
      * File schema:
-     * first 4 bytes: tree length declaration
-     * next 4 bytes: body length declaration
-     * <tree>
+     * first 4 bytes: body length declaration
      * <body>
      */
     public static class Program
